@@ -1,0 +1,75 @@
+/*design styles in forum TAB SECTION*/
+.course-forum .box {
+  margin-bottom: 25px;
+}
+
+.course-forum h4 {
+  background: $color-12;
+  padding: 10px;
+}
+
+.recent-forums-details {
+  padding: 0 10px;
+}
+
+.recent-forums h4 {
+  background: $color-12;
+  padding: 10px;
+  border-bottom: 1px solid $color-12;
+}
+
+/*design styles in Forum Discussion Page*/
+.topic-header {
+  border: 2px solid lightgray;
+  margin-bottom: 1em;
+}
+
+.topic-forum {
+  background: lightgray;
+  padding: 0.5em;
+}
+.topic-header p {
+  padding: 1em;
+}
+
+.user-forum-header {
+  background-color: lightgray;
+  padding: 0.5em;
+}
+
+.user-forum-header i {
+  margin-right: 0.5em;
+}
+
+.user-main-reply {
+  padding: 1em;
+}
+
+.forum-buttons-section {
+  float: right !important;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+/*rich text editor*/
+// .editor-utils {
+//   border-bottom: 2px solid lightgray;
+// }
+.reply-section {
+  border: 1px solid lightgray;
+}
+.reply-section-header {
+  background-color: lightgray;
+}
+.reply-section-header h4 {
+  padding: 0.5em;
+}
+.editorContainer {
+  padding: 1.5em;
+}
+.richtext-section {
+  margin-top: 0.5em;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 1em;
+}
