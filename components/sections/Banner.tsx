@@ -1,8 +1,8 @@
 import styles from "../../styles/Banner.module.scss";
-import useTranslation from 'next-translate/useTranslation'
+// import useTranslation from 'next-translate/useTranslation'
 
 export default function Banner() {
-  const { t } = useTranslation('common')
+  // const { t } = useTranslation('common')
   return (
     <section className="banner bg-secondary.bg-gradient">
       {/* <div className="container">
