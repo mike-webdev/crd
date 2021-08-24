@@ -1,15 +1,15 @@
-import useTranslation from 'next-translate/useTranslation'
+// import useTranslation from 'next-translate/useTranslation'
 
 export default function Features() {
-  const { t } = useTranslation('common')
+  // const { t } = useTranslation('common')
   return (
     <>
       <section id="features-background"></section>
 
       <section className="features space">
         <div className="container feature-details">
-          <h2 className="text-center mb-4 ">{t("Features")}</h2>
-          <p className="text-center " dangerouslySetInnerHTML={{__html:t("Features Description")}}></p>
+          <h2 className="text-center mb-4 ">{("Features")}</h2>
+          <p className="text-center " dangerouslySetInnerHTML={{__html:("Features Description")}}></p>
           <br />
           <div className="row">
             <div className="col-lg-6 col-xl-3">
