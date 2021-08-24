@@ -14,8 +14,7 @@ const translateConfig = {
 
 };
 
-// module.exports = withPlugins([
-//   withTM,
-//   nextTranslate,
+module.exports = withPlugins([
+  withTM,
   
-// ], translateConfig);
+], translateConfig);
