@@ -1,62 +1,62 @@
 
 import FeaturedCoursesItem from "../items/FeaturedCoursesItem";
-import Slider from "react-slick";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+// import Slider from "react-slick";
+// import "slick-carousel/slick/slick.css";
+// import "slick-carousel/slick/slick-theme.css";
 import useTranslation from 'next-translate/useTranslation'
 
 export default function FeaturedCourses() {
-  function NextArrow(props) {
-    const { className, style, onClick } = props;
-    return (
-        <div className="control-right" onClick={onClick}><i className="fas fa-caret-right"></i></div>
-    );
-  }
+  // function NextArrow(props) {
+  //   const { className, style, onClick } = props;
+  //   return (
+  //       <div className="control-right" onClick={onClick}><i className="fas fa-caret-right"></i></div>
+  //   );
+  // }
 
-  function PrevArrow(props) {
-    const { className, style, onClick } = props;
-    return (
-      <div className="control-left" onClick={onClick}><i className="fas fa-caret-left"></i></div>
-    );
-  }
+  // function PrevArrow(props) {
+  //   const { className, style, onClick } = props;
+  //   return (
+  //     <div className="control-left" onClick={onClick}><i className="fas fa-caret-left"></i></div>
+  //   );
+  // }
 
-  var settings = {
-    dots: false,
-    speed: 500,
-    slidesToShow: 4,
-    slidesToScroll: 1,      
-    nextArrow: <NextArrow />,
-    prevArrow: <PrevArrow />,
-    responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 2,
-            slidesToScroll: 1,
-            infinite: true,
-            dots: true,
-            arrows: false,
-          },
-        },
-        {
-          breakpoint: 600,
-          settings: {
-            slidesToShow: 2,
-            slidesToScroll: 1,
-            arrows: false,
-          },
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            dots: true,
-            arrows: false,
-          },
-        },
-      ],
-  };
+  // var settings = {
+  //   dots: false,
+  //   speed: 500,
+  //   slidesToShow: 4,
+  //   slidesToScroll: 1,      
+  //   nextArrow: <NextArrow />,
+  //   prevArrow: <PrevArrow />,
+  //   responsive: [
+  //       {
+  //         breakpoint: 1024,
+  //         settings: {
+  //           slidesToShow: 2,
+  //           slidesToScroll: 1,
+  //           infinite: true,
+  //           dots: true,
+  //           arrows: false,
+  //         },
+  //       },
+  //       {
+  //         breakpoint: 600,
+  //         settings: {
+  //           slidesToShow: 2,
+  //           slidesToScroll: 1,
+  //           arrows: false,
+  //         },
+  //       },
+  //       {
+  //         breakpoint: 480,
+  //         settings: {
+  //           slidesToShow: 1,
+  //           slidesToScroll: 1,
+  //           dots: true,
+  //           arrows: false,
+  //         },
+  //       },
+  //     ],
+  // };
 
   const { t } = useTranslation('common')
 
@@ -109,7 +109,7 @@ export default function FeaturedCourses() {
                 role="tabpanel"
                 aria-labelledby="pills-toprated-tab"
               >
-                <Slider {...settings}>
+                {/* <Slider {...settings}>
                   <FeaturedCoursesItem
                     img="https://images.pexels.com/photos/247819/pexels-photo-247819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                     alt="Courst Title"
@@ -180,7 +180,7 @@ export default function FeaturedCourses() {
                     description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, erat quis tempor " 
                     course="Course Title" rating="4.9" reviews="100" months="2 mos" time="3 hrs/wk" level="Lvls 1-6" 
                   />
-                </Slider>
+                </Slider> */}
 
               </div>
             </div>
