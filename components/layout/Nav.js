@@ -6,6 +6,7 @@ import NavItem from "../items/NavItem";
 import ChangeLanguage from "./ChangeLanguage";
 import useTranslation from "next-translate/useTranslation";
 import { useSession, signOut } from "next-auth/client";
+import 'intl-pluralrules'
 
 export default function Nav() {
   const [session, loading] = useSession();

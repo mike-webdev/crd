@@ -4,6 +4,8 @@ import FeaturedCoursesItem from "../items/FeaturedCoursesItem";
 // import "slick-carousel/slick/slick.css";
 // import "slick-carousel/slick/slick-theme.css";
 import useTranslation from 'next-translate/useTranslation'
+import 'intl-pluralrules'
+
 
 export default function FeaturedCourses() {
   // function NextArrow(props) {

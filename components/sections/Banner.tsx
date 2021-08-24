@@ -1,5 +1,7 @@
 import styles from "../../styles/Banner.module.scss";
 import useTranslation from 'next-translate/useTranslation'
+import 'intl-pluralrules'
+
 
 export default function Banner() {
   const { t } = useTranslation('common')
