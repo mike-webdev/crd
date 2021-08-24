@@ -3,15 +3,15 @@ import { useContext, useEffect } from "react";
 import { toast } from "react-toastify";
 import { useRouter } from "next/router";
 import NavItem from "../items/NavItem";
-// import ChangeLanguage from "./ChangeLanguage";
-// import useTranslation from "next-translate/useTranslation";
+import ChangeLanguage from "./ChangeLanguage";
+import useTranslation from "next-translate/useTranslation";
 import { useSession, signOut } from "next-auth/client";
 
 export default function Nav() {
   const [session, loading] = useSession();
   // const { state, dispatch } = useContext(Context);
   // const { user } = state;
-  // const { t } = useTranslation("common");
+  const { t } = useTranslation("common");
   // user = JSON.stringify(user, null, 4)
 
   // const router = useRouter();
@@ -140,7 +140,7 @@ export default function Nav() {
                           data-bs-toggle="dropdown"
                           aria-expanded="false"
                         >
-                          {("My Account")}
+                          {t("My Account")}
                         </a>
 
                         <ul
@@ -154,23 +154,23 @@ export default function Nav() {
                           </li>
                           <li>
                             <a className="dropdown-item" href="#">
-                              {("My Profile")}
+                              {t("My Profile")}
                             </a>
                           </li>
                           <li>
                             <a className="dropdown-item" href="#">
                               <div className="notif-count">1</div>
-                              {("Notifications")}
+                              {t("Notifications")}
                             </a>
                           </li>
                           <li>
                             <a className="dropdown-item" href="#">
-                              {("User Settings")}
+                              {t("User Settings")}
                             </a>
                           </li>
                           <li>
                             <a className="dropdown-item" href="#">
-                              {("My Forums")}
+                              {t("My Forums")}
                             </a>
                           </li>
                           <li>
@@ -178,7 +178,7 @@ export default function Nav() {
                               onClick={logoutHandler}
                               className="dropdown-item"
                             >
-                              {("Log Out")}
+                              {t("Log Out")}
                             </a>
                           </li>
                         </ul>
@@ -196,7 +196,7 @@ export default function Nav() {
                 </>
               )}
                     <li className="nav-item">
-                      {/* <ChangeLanguage/> */}
+                      <ChangeLanguage/>
                     </li>
               {/* 
               {
