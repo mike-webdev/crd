@@ -1,6 +1,6 @@
 const withPlugins = require('next-compose-plugins');
 
-const nextTranslate = require('next-translate')
+// const nextTranslate = require('next-translate')
 const withTM = require('next-transpile-modules')(['use-voice-recorder']);
 
 const translateConfig = {
@@ -14,8 +14,8 @@ const translateConfig = {
 
 };
 
-module.exports = withPlugins([
-  withTM,
-  nextTranslate,
+// module.exports = withPlugins([
+//   withTM,
+//   nextTranslate,
   
-], translateConfig);
+// ], translateConfig);
