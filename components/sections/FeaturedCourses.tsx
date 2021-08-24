@@ -3,7 +3,7 @@ import FeaturedCoursesItem from "../items/FeaturedCoursesItem";
 // import Slider from "react-slick";
 // import "slick-carousel/slick/slick.css";
 // import "slick-carousel/slick/slick-theme.css";
-import useTranslation from 'next-translate/useTranslation'
+// import useTranslation from 'next-translate/useTranslation'
 
 export default function FeaturedCourses() {
   // function NextArrow(props) {
@@ -58,13 +58,13 @@ export default function FeaturedCourses() {
   //     ],
   // };
 
-  const { t } = useTranslation('common')
+  // const { t } = useTranslation('common')
 
   return (
     <section className="featured-courses space" id="featured">
       <div className="container">
-        <h2 className="text-center white">{t("Featured Courses")}</h2>
-        <p className="text-center white">{t("Featured Courses Description")}</p>
+        <h2 className="text-center white">{("Featured Courses")}</h2>
+        <p className="text-center white">{("Featured Courses Description")}</p>
         <br />
         <div className="row">
           <div className="col-sm-12">
