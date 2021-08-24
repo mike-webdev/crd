@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "components/layout/Footer.tsx", "components/layout/Header.js", "components/layout/ChangeLanguage.tsx", "components/layout/Nav.js", "controller/addSpecialization.js", "lib/courses.js"  ],
+, "components/layout/Footer.tsx", "components/layout/Header.js", "components/layout/ChangeLanguage.tsx", "components/layout/Nav.tsx", "controller/addSpecialization.js", "lib/courses.js"  ],
   "exclude": [
     "node_modules"
   ]
