@@ -1,0 +1,94 @@
+{
+    "courseRelatedList": [
+        {
+            "id": 1,
+            "image": "https://images.pexels.com/photos/434341/pexels-photo-434341.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=5000",
+            "title": "Course Title",
+            "rate": 4.9,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        },
+        {
+            "id": 2,
+            "image": "https://images.pexels.com/photos/159581/dictionary-reference-book-learning-meaning-159581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Course Title",
+            "rate": 4.5,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        },
+        {
+            "id": 3,
+            "image": "https://images.pexels.com/photos/448835/pexels-photo-448835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Course Title",
+            "rate": 4.3,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        },
+        {
+            "id": 4,
+            "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Course Title",
+            "rate": 4.1,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        },
+        {
+            "id": 5,
+            "image": "https://images.pexels.com/photos/256541/pexels-photo-256541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Course Title",
+            "rate": 4.5,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        },
+        {
+            "id": 6,
+            "image": "https://images.pexels.com/photos/2249063/pexels-photo-2249063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Course Title",
+            "rate": 4.9,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        },
+        {
+            "id": 7,
+            "image": "https://images.pexels.com/photos/3431444/pexels-photo-3431444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Course Title",
+            "rate": 5.0,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        },
+        {
+            "id": 8,
+            "image": "https://images.pexels.com/photos/3769708/pexels-photo-3769708.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Course Title",
+            "rate": 4.0,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        },
+        {
+            "id": 9,
+            "image": "https://images.pexels.com/photos/5984614/pexels-photo-5984614.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "title": "Course Title",
+            "rate": 4.7,
+            "information": "Gain a deeper understanding of the English language through cascading lessons using categorized sets of photography that will introduce you to inter-related English concepts to hone your skills better.",
+            "duration": "2 months",
+            "time": "4 weeks",
+            "level": "5 above"
+        }
+    ]
+}

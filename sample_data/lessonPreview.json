@@ -1,0 +1,445 @@
+{
+    "vocabularyList": [
+        {
+            "id": 1,
+            "image": "https://images.pexels.com/photos/1301547/pexels-photo-1301547.jpeg?cs=srgb&dl=pexels-mentatdgt-1301547.jpg&fm=jpg",
+            "name": "bartender",
+            "text": "a person who works in a bar",
+            "note": "Bartenders in the United States may work in a large variety of bars. These include hotel bars, restaurant bars, sports bars, gay bars, piano bars, and dive bars. Also growing in popularity is the portable bar, which can be moved to different venues and special events."
+        },
+        {
+            "id": 2,
+            "image": "https://images.pexels.com/photos/3752747/pexels-photo-3752747.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3752747.jpg&fm=jpg",
+            "name": "brewer",
+            "text": "a person or company that makes beer",
+            "note": ""
+        },
+        {
+            "id": 3,
+            "image": "https://images.pexels.com/photos/2835547/pexels-photo-2835547.jpeg?cs=srgb&dl=pexels-percival-ian-muico-2835547.jpg&fm=jpg",
+            "name": "bar",
+            "text": "place serving alcohol",
+            "note": ""
+        },
+        {
+            "id": 4,
+            "image": "https://images.pexels.com/photos/2775827/pexels-photo-2775827.jpeg?cs=srgb&dl=pexels-marta-dzedyshko-2775827.jpg&fm=jpg",
+            "name": "coffee maker",
+            "text": "apparatus for brewing coffee",
+            "note": ""
+        },
+        {
+            "id": 5,
+            "image": "https://images.pexels.com/photos/452737/pexels-photo-452737.jpeg?cs=srgb&dl=pexels-artem-beliaikin-452737.jpg&fm=jpg",
+            "name": "ice tea",
+            "text": "served in a glass with ice, it can refer to any tea that has been chilled or cooled",
+            "note": "There are two traditional iced teas in the United States – Iced Tea and Sweet Tea. The only variation between them is sugar. Southerners swear by their traditional sweet ice tea and drink it by the gallons."
+        },
+        {
+            "id": 6,
+            "image": "https://images.pexels.com/photos/7125769/pexels-photo-7125769.jpeg?cs=srgb&dl=pexels-michael-burrows-7125769.jpg&fm=jpg",
+            "name": "brew",
+            "text": "a coffee made by pouring hot water over coffee grounds",
+            "note": ""
+        },
+        {
+            "id": 7,
+            "image": "https://images.pexels.com/photos/2176626/pexels-photo-2176626.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-2176626.jpg&fm=jpg",
+            "name": "coffee",
+            "text": "a beverage consisting of a decoction or infusion of the roasted ground or crushed seeds",
+            "note": ""
+        },
+        {
+            "id": 8,
+            "image": "https://images.pexels.com/photos/374885/pexels-photo-374885.jpeg?cs=srgb&dl=pexels-burst-374885.jpg&fm=jpg",
+            "name": "arabica",
+            "text": "coffee or coffee beans from the most common type of coffee plant",
+            "note": "Arabica coffee originates from Ethiopia and was first cultivated in Yemen, and documented by the 12th century. Coffea arabica is called ‏بُنّ‎ (būnn) in Arabic, borrowed from the Oromo 'Buna'."
+        },
+        {
+            "id": 9,
+            "image": "https://images.pexels.com/photos/169391/pexels-photo-169391.jpeg?cs=srgb&dl=pexels-ainis-jankauskas-169391.jpg&fm=jpg",
+            "name": "beverage",
+            "text": "any potable liquid, especially one other than water, as tea, coffee, beer, or milk",
+            "note": "The first documentary evidence of alcoholic beverages was written in Sumerian around 3200 BC, most certainly concerns beer rather than wine production and employs a specific pictograph for beer itself – an outline of a clay vessel marked with short, diagonal lines."
+        }
+    ],
+    "expressionList": [
+        {
+            "id": 1,
+            "name": "Customer",
+            "image": "https://images.pexels.com/photos/1833399/pexels-photo-1833399.jpeg?cs=srgb&dl=pexels-lisa-1833399.jpg&fm=jpg",
+            "content": [
+                {
+                    "id": 1,
+                    "text": "Do you have non dairy option?"
+                },
+                {
+                    "id": 2,
+                    "text": "May I see the menu please?"
+                },
+                {
+                    "id": 3,
+                    "text": "I have a ... to go/for here"
+                },
+                {
+                    "id": 4,
+                    "text": "I'd like a ..."
+                },
+                {
+                    "id": 5,
+                    "text": "I'm being served, thanks"
+                },
+                {
+                    "id": 6,
+                    "text": "Is ... available?"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Cashier",
+            "image": "https://images.pexels.com/photos/4473496/pexels-photo-4473496.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-4473496.jpg&fm=jpg",
+            "content": [
+                {
+                    "id": 7,
+                    "text": "How would you like to pay?"
+                },
+                {
+                    "id": 8,
+                    "text": "Anything else?"
+                },
+                {
+                    "id": 9,
+                    "text": "What can I get you?"
+                },
+                {
+                    "id": 10,
+                    "text": "Today's specials are on the board."
+                }
+            ]
+        }
+    ],
+    "wordBankList": [
+        {
+            "id": 1,
+            "name": "Vocabulary",
+            "content": [
+                {
+                    "id": 1,
+                    "name": "bartender",
+                    "image": "https://images.pexels.com/photos/1301547/pexels-photo-1301547.jpeg?cs=srgb&dl=pexels-mentatdgt-1301547.jpg&fm=jpg",
+                    "text": "a person who works in a bar",
+                    "note": "Bartenders in the United States may work in a large variety of bars. These include hotel bars, restaurant bars, sports bars, gay bars, piano bars, and dive bars. Also growing in popularity is the portable bar, which can be moved to different venues and special events."
+                },
+                {
+                    "id": 2,
+                    "name": "brewer",
+                    "image": "https://images.pexels.com/photos/3752747/pexels-photo-3752747.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3752747.jpg&fm=jpg",
+                    "text": "a person or company that makes beer",
+                    "note": ""
+                },
+                {
+                    "id": 3,
+                    "name": "bar",
+                    "image": "https://images.pexels.com/photos/2835547/pexels-photo-2835547.jpeg?cs=srgb&dl=pexels-percival-ian-muico-2835547.jpg&fm=jpg",
+                    "text": "place serving alcohol",
+                    "note": ""
+                },
+                {
+                    "id": 4,
+                    "name": "coffee maker",
+                    "image": "https://images.pexels.com/photos/2775827/pexels-photo-2775827.jpeg?cs=srgb&dl=pexels-marta-dzedyshko-2775827.jpg&fm=jpg",
+                    "text": "apparatus for brewing coffee",
+                    "note": ""
+                },
+                {
+                    "id": 5,
+                    "image": "https://images.pexels.com/photos/452737/pexels-photo-452737.jpeg?cs=srgb&dl=pexels-artem-beliaikin-452737.jpg&fm=jpg",
+                    "name": "ice tea",
+                    "text": "served in a glass with ice, it can refer to any tea that has been chilled or cooled",
+                    "note": "There are two traditional iced teas in the United States – Iced Tea and Sweet Tea. The only variation between them is sugar. Southerners swear by their traditional sweet ice tea and drink it by the gallons."
+                },
+                {
+                    "id": 6,
+                    "image": "https://images.pexels.com/photos/7125769/pexels-photo-7125769.jpeg?cs=srgb&dl=pexels-michael-burrows-7125769.jpg&fm=jpg",
+                    "name": "brew",
+                    "text": "a coffee made by pouring hot water over coffee grounds",
+                    "note": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Expressions",
+            "content": [
+                {
+                    "id": 1,
+                    "name": "Customer",
+                    "image": "https://images.pexels.com/photos/1833399/pexels-photo-1833399.jpeg?cs=srgb&dl=pexels-lisa-1833399.jpg&fm=jpg",
+                    "items": [
+                        {
+                            "id": 1,
+                            "text": "Do you have non dairy option?"
+                        },
+                        {
+                            "id": 2,
+                            "text": "May I see the menu please?"
+                        },
+                        {
+                            "id": 3,
+                            "text": "I have a ... to go/for here"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Cashier",
+                    "image": "https://images.pexels.com/photos/4473496/pexels-photo-4473496.jpeg?cs=srgb&dl=pexels-ketut-subiyanto-4473496.jpg&fm=jpg",
+                    "items": [
+                        {
+                            "id": 4,
+                            "text": "How would you like to pay?"
+                        },
+                        {
+                            "id": 5,
+                            "text": "Anything else?"
+                        },
+                        {
+                            "id": 6,
+                            "text": "What can I get you?"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "keyVocabularyList": [
+        {
+            "id": 1, 
+            "name": "Antibodies",
+            "pronounce": "/ an·ti·​bo·​dies",
+            "description": "medical : a substance produced by the body to fight disease",
+            "sample": [
+                        "Breastfeeding provides infants with antibodies.",
+                        "Antibodies are specific to the agent causing their response."
+                    ]
+        },
+        {
+            "id": 2,
+            "name": "Bacteria",
+            "pronounce": "/ bac·​te·​ria |  bak-ˈtir-ē-ə",
+            "description": "very tiny living things that have only one cell, some of which can cause diseases.",
+            "sample": [
+                        "Washing hands regularly help can help kill bacteria.", 
+                        "Some bacteria makes people sick, but others are totally harmless."
+                    ]
+        },
+        {
+            "id": 3,
+            "name": "Fecal Matter",
+            "pronounce": "/ fe·cal·​ma·​tter",
+            "description": "solid excretory product evacuated from the bowels",
+            "sample": [
+                        "The child may not even be aware that he or she has defecated until the fecal matter has already passed.",
+                        "The fecal matter then continues its journey across to the transverse colon."
+                    ]
+        },
+        {
+            "id": 4,
+            "name": "Immune System",
+            "pronounce": "/ i·mmune·​sys·​tem",
+            "description": "The immune system is a complex network of cells and proteins that defends the body against infection.",
+            "sample": [
+                        "The immune system is our body's shield against infection.",
+                        "The virus suppresses the body's immune system."
+                    ]
+        },
+        {
+            "id": 5,
+            "name": "Sanitize",
+            "pronounce": "/ sa·ni·tize",
+            "description": "Make clean and hygienic.",
+            "sample": [
+                        "Sanitize food preparation surfaces regularly.",
+                        "As water can carry PRRS virus it is important to sanitize water systems."
+                    ]
+        },
+        {
+            "id": 6,
+            "name": "Coddle",
+            "pronounce": "/ co·ddle",
+            "description": "To treat with extreme or excessive care or kindness",
+            "sample": [
+                        "To molly coddle someone or some pet is to really fuss over them; to over indulge them.",
+                        "You can watch the birds cozy up with their eggs or coddle their newly hatched chicks."
+                    ]
+        },
+        {
+            "id": 7,
+            "name": "Euro",
+            "pronounce": "/ eu·ro",
+            "description": "The unit of money used in most European Union countries",
+            "sample": [
+                        "I collected 24p and 10 Euro cents, and my friend got a lovely pink cardigan.",
+                        "The proposed Iranian bourse would establish a fourth oil marker, denominated by the euro."
+                    ]
+        },
+        {
+            "id": 8,
+            "name": "Juncture",
+            "pronounce": "/ junc·ture",
+            "description": "A particular point in events or time.",
+            "sample": [
+                        "At this juncture (October 1895) came overtures to the leading Uitlanders.",
+                        "We are at a crucial juncture in the HIV epidemic."
+                    ]
+        },
+        {
+            "id": 9,
+            "name": "Rationale",
+            "pronounce": "/ ra·tio·nale",
+            "description": "A set of reasons or a logical basis for a course of action or a particular belief.",
+            "sample": [
+                        "The plan was criticized for its lack of rationale.",
+                        "The rationale behind the changes is not at all evident."
+                    ]
+        },
+        {
+            "id": 10, 
+            "name": "Sound",
+            "pronounce": "/ sound",
+            "description": "Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.",
+            "sample": [
+                        "There was no sound to be heard anywhere throughout the country.",
+                        "They don't sound at all alike to me."
+                    ]
+        }
+    ],
+    "keyExpressionsList": [
+        {
+            "id": 1,
+            "name": "According To",
+            "pronounce": "ac·​cord·​ing to",
+            "description": "a phrase used to mean ‘as stated by’, ‘as reported by’ or ‘based on’",
+            "sample": [
+                        "According to a Forbes article, Atomix of New York City is one of the ten coolest restaurants for 2021.",
+                        "According to the weather news, there is a 50% chance of rain in the afternoon."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "To Cut Down (on Something)",
+            "pronounce": "to·​cut·​down",
+            "description": "If you cut down on something or cut down something, you use or do less of it.",
+            "sample": [
+                    "I am trying to cut down on sugar this month. I would like to lose some weight before going on holiday.",
+                    "I have to cut-down the tree outside my office window in order to see the beautiful view."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "To Have Something Against Someone",
+            "pronounce": "to·​have·​some·thing·a·gainst·some·one",
+            "description": "Dislike someone or something for particular reason",
+            "sample": [
+                    "You should do something about the problem.",
+                    "Something was pushing its way through the bushes."        
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Under the Weather",
+            "pronounce": "un·​der·​the·​wea·​ther",
+            "description": "Slightly unwell or in low spirits.",
+            "sample": [
+                    "Toby said you've been under the weather.",
+                    "Jackson is a bit under the weather."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "To Set Up",
+            "pronounce": "to·​set·​up",
+            "description": "Place something in position.",
+            "sample": [
+                    "The house rules had been set up to protect the girls from him.",
+                    "Both of us tried to remember details of Quinn's actions when he set up a session."
+            ]
+        }
+    ],
+    "mintubeWordBank": [
+        {
+            "id": 1,
+            "name": "Vocabulary",
+            "content": [
+                {
+                    "id": 1,
+                    "name": "bacteria",
+                    "pronounce": "bac·​te·​ria | bak-ˈtir-ē-ə ",
+                    "description": "very tiny living things that can cause diseases.",
+                    "sample": [
+                        "Washing hands regularly help can help kill bacteria.", 
+                        "Some bacteria makes people sick, but others are totally harmless."
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Antibodies",
+                    "pronounce": "/ an·ti·​bo·​dies",
+                    "description": "medical : a substance produced by the body to fight disease",
+                    "sample": [
+                        "Breastfeeding provides infants with antibodies.",
+                        "Antibodies are specific to the agent causing their response."
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Coddle",
+                    "pronounce": "/ co·ddle",
+                    "description": "To treat with extreme or excessive care or kindness",
+                    "sample": [
+                        "To molly coddle someone or some pet is to really fuss over them; to over indulge them.",
+                        "You can watch the birds cozy up with their eggs or coddle their newly hatched chicks."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Expressions",
+            "content": [
+                {
+                    "id": 4,
+                    "name": "According To",
+                    "pronounce": "ac·​cord·​ing to",
+                    "description": "a phrase used to mean ‘as stated by’, ‘as reported by’ or ‘based on’",
+                    "sample": [
+                        "According to a Forbes article, Atomix of New York City is one of the ten coolest restaurants for 2021.",
+                        "According to the weather news, there is a 50% chance of rain in the afternoon."
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "To Have Something Against Someone",
+                    "pronounce": "to·​have·​some·thing·a·gainst·some·one",
+                    "description": "Dislike someone or something for particular reason",
+                    "sample": [
+                        "You should do something about the problem.",
+                        "Something was pushing its way through the bushes."     
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Under the Weather",
+                    "pronounce": "un·​der·​the·​wea·​ther",
+                    "description": "Slightly unwell or in low spirits.",
+                    "sample": [
+                        "Toby said you've been under the weather.",
+                        "Jackson is a bit under the weather."
+                    ]
+                }
+            ]
+        }
+    ]
+}

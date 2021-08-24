@@ -1,0 +1,142 @@
+[
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#espresso-machine",
+    "type": "Annotation",
+    "value": "espresso machine",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:21.11069107055664,246.05996704101562,286.1899070739746,213.3223876953125"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#bread",
+    "type": "Annotation",
+    "value": "bread",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:440.3630676269531,411.86004638671875,240.77975463867188,71.81149291992188"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#plant",
+    "type": "Annotation",
+    "value": "plant",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:456.203857421875,1.0560513734817505,179.52874755859375,227.05105006694794"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#wine",
+    "type": "Annotation",
+    "value": "wine",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:112.9871597290039,5.280256748199463,39.07390594482422,83.42805624008179"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#coffee-maker",
+    "type": "Annotation",
+    "value": "coffee maker",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:271.3948669433594,267.1809997558594,129.89431762695312,174.24847412109375"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#glass-wine",
+    "type": "Annotation",
+    "value": "glass wine",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:274.5630187988281,81.31595611572266,92.93252563476562,103.49303436279297"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#container",
+    "type": "Annotation",
+    "value": "container",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:391.78472900390625,186.9210968017578,85.5401611328125,58.08282470703125"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#cups",
+    "type": "Annotation",
+    "value": "cups",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:498.4458923339844,183.75294494628906,93.98855590820312,79.20384216308594"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#menu",
+    "type": "Annotation",
+    "value": "menu",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:513.2306518554688,73.92359924316406,239.7236328125,266.1249542236328"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#bulb",
+    "type": "Annotation",
+    "value": "bulb",
+    "body": [],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:660.0217895507812,1.0560513734817505,63.363037109375,84.48410975933075"
+      }]
+    }
+  }
+]

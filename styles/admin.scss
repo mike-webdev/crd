@@ -1,0 +1,186 @@
+// GENERAL
+.admin-row{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.admin-btn{
+    background: #87ceeb;
+    padding:10px 25px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.admin-btn:hover{
+    background: rgba(135,206,234,0.8);
+    box-shadow: 1px 1px 10px #C4C4C4;
+    transition: all ease 0.5s;
+}
+
+
+// Navigation
+a:hover{color:inherit}
+#adminNav{
+    position: fixed;
+    left: 0;
+    top:15%;
+    overflow-x: hidden;
+    z-index: 999;
+}
+#adminNav ul{
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+#adminNav ul li{
+    margin:15px 0
+}
+#adminNav ul li a{
+    display: inline-block;
+    padding: 10px;
+    background: #C4C4C4;
+    border-radius: 0 10px 10px 0;
+}
+#adminNav ul li a:hover,
+#adminNav ul li a.active{
+    background: #87CEEB;
+    transition: all ease 0.5s;
+}
+#adminNav ul li a i{
+    font-size: 25px;
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+}
+#adminNav ul li a span{
+    width: 0px;
+    height: 0;
+    display: none;
+    opacity: 0;
+    margin:0;
+    text-decoration: none !important;
+}
+#adminNav ul li a:hover span{ 
+    display: inline-block;
+    width: auto;
+    height: 100%;
+    opacity: 1;
+    transition: all ease 0.8s;
+}
+// End Navigation
+
+//BANNER
+.creator-banner{
+    background:#808080;
+    border-radius: 20px;
+}
+
+.creator-banner .banner-title h2{
+    background: #87CEEB;
+    border-radius: 10px;
+    padding:15px 20px;
+    display: inline-block;
+}
+
+
+
+//END BANNER
+
+//SIDEBAR
+.admin-sidebar #nav-left{
+    height: 96%;
+}
+.admin-sidebar .sidenav_container{
+    background: #87ceeb;
+    border: 0 solid transparent;
+    border-radius: 25px 0 0 25px;
+    margin:20px 0 0;
+    padding:20px 20px 20px 0;
+    height: 100%;
+}
+.admin-sidebar .sub-menu{
+    height: auto !important;
+    display: block;
+}
+.admin-sidebar #sidenav{
+    background: none;
+}
+.admin-sidebar .lesson-sidebar > .nav-link,
+.admin-sidebar .sub-menu li button{
+    background: none;
+    border: none;
+    text-align: center;
+    padding: 5px ;
+    padding-left:5px;
+}
+.admin-sidebar .sub-menu li button.active{
+    background: #C4C4C4 !important;
+    color: #000
+}
+
+
+
+//END SIDEBAR
+
+//TAB CONTENT
+.course-creator-tab>.tab-pane{
+    display: none;
+}
+.course-creator-tab{
+    position: relative;
+    background: #FFF;
+    left: -30px;
+    border-radius: 25px;
+    box-shadow: 5px 1px 6px #cecece;
+    margin: 20px 0 0;
+    padding: 20px;
+    border: 0.5px solid #cecece
+}
+//END TAB CONTENT
+
+
+// Course Management
+.course-container{
+    text-align: center;
+    width: 60%;
+    padding: 80px 0;
+    background: #C4C4C4;
+    margin:20px auto;
+}
+
+// End of Course Management
+
+
+//MULTIPLE CHOICE
+.prev_header{
+    background-color: #000;
+    color:#FFF;
+    border-radius: 10px;
+    text-align: center;
+    padding:5px;
+}
+
+.edit_btn{
+    color: #87CEEB;
+    font-size: 27px;
+    padding:0 5px;
+}
+.delete_btn{
+    color: #FF0000;
+    font-size: 27px;
+    padding:0 5px;
+}
+
+.img-btn{
+    position: relative;
+    max-width: 33%;
+    margin: 0 auto
+}
+.img-btn img{
+    width: 100%;
+    height: 100%;
+}
+.img-buttons{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}

@@ -1,0 +1,260 @@
+{
+    "binding_box" : [
+        {
+            "id": 1,
+            "sentence": "The _ works like magic. You can get your coffee dripping in seconds",
+            "choices": ["cups", "espresso machine", "coffee maker"],
+            "key": "espresso machine", 
+            "answer":""
+        },
+        {
+            "id": 2,
+            "sentence": "There is a _ hanging.",
+            "choices": ["plant", "bulb", "container"],
+            "key": "plant",
+            "answer":""
+        },
+        {
+            "id": 3,
+            "sentence": "They also sell _",
+            "choices": ["bread", "menu", "glass wine"],
+            "key": "bread",
+            "answer":""
+        }
+    ],
+    "homework_speaking_test":[
+        {
+            "id": 1,
+            "question": "Do you have a hobby?",
+            "text_length": 0
+        },
+        {
+            "id": 2,
+            "question": " Did you learn art at school when you were a child?",
+            "text_length": 0
+        },
+        {
+            "id": 3,
+            "question": "What kind of clothes do you usually wear?",
+            "text_length": 0
+        }
+    ],
+    "sequencing_chapter_test":[
+        {
+            "id": 1,
+            "question": "What’s your favourite website?",
+            "sentences": [
+                {
+                    "order": 1,
+                    "sentence": "Youtube is also a good source of information although I need to be very careful because there are fake information and senseless videos uploaded on the site."
+                },
+                {
+                    "order":2,
+                    "sentence":"I love watching videos and I can do it there for free. I can watch all sort of things there."
+                },
+                {
+                    "order": 3,
+                    "sentence": "I can say Youtube is my favorite site."
+                },
+                {
+                    "order": 4,
+                    "sentence": "Nevertheless, I think it’s the most enjoyable site."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "At what time do you usually get up in the morning",
+            "sentences": [
+                {
+                    "order": 1,
+                    "sentence": "I usually wake up at 5 AM, but get up at 5:30 AM on weekdays."
+                },
+                {
+                    "order":2,
+                    "sentence":"I live a little far from my workplace so I need to wake up early. However, some days when I feel lazy, I get up at 6 and rush not to get late for work."
+                },
+                {
+                    "order": 3,
+                    "sentence": "If I have something to do, I get up at 8, but if I don’t have scheduled appointments, I get up at 10."
+                },
+                {
+                    "order": 4,
+                    "sentence": "On weekends, I wake up later."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": " If you were to learn another language, what would it be?",
+            "sentences": [
+                {
+                    "order": 1,
+                    "sentence": "If you were to learn another language, what would it be?"
+                },
+                {
+                    "order":2,
+                    "sentence":"I would like to learn how to speak in Italian because it is a combination of beautiful languages namely, French and Spanish."
+                },
+                {
+                    "order": 3,
+                    "sentence": "I would like to learn how to speak in Italian because it is a combination of beautiful languages namely, French and Spanish"
+                }
+            ]
+        }
+
+    ],
+    "minttube_lesson_preview":[
+        {
+            "id":1,
+            "question":"What are some health and sanitation practices that prevent the spread of disease in Korea?"
+        },
+        {
+            "id":2,
+            "question":"How often do you sanitize your house/apartment?Do you hire professionals to do it for you? Why or why not?"
+        },
+        {
+            "id":3,
+            "question":"Do you agree that practicing personal hygiene is also a way of respecting ourselves? Why?"
+        },
+        {
+            "id":4,
+            "question":"Would you say that taking care of yourself is the best way of taking care of others? Support your idea using reasons and examples."
+        }
+    ],
+    "sentence_construction":[
+        {
+            "id":1,
+            "word": "antibodies"
+        },
+        {
+            "id":2,
+            "word": "bacteria"
+        },
+        {
+            "id":3,
+            "word": "immune system"
+        },
+        {
+            "id":4,
+            "word": "sanitizing station"
+        },
+        {
+            "id":5,
+            "word": "fecal matter"
+        }
+    ],
+    "minttube_comprehension_check":[
+        {
+            "id": 1,
+            "question": "Were all the employees serious about the Hygiene Day lecture? Why do you say so?"
+        },
+        {
+            "id": 2,
+            "question": "In the video, whare the two opposing ideas about germ prevention?"
+        },
+        {
+            "id": 3,
+            "question": "What is hand desanitizing station as suggested by Dwight?"
+        },
+        {
+            "id": 4,
+            "question": "Which character in the video did you relate to the most/least? Why?"
+        }
+    ],
+    "minttube_homework":[
+        {
+            "id":1,
+            "question": "Cite three ways by which we can stop the spread of germs. Give answers that are not mentioned in the video."
+        }
+    ],
+    "word_blaster":[
+        {
+            "words": "Bacteria",
+            "definition": "a type of biological cell",
+            "styles":{
+                "visibility": "visible",
+                "color": "black",
+                "display":"none"
+            }
+        },
+        {
+            "words": "Immune System",
+            "definition": "A complex network of cells, tissues, organs, and the substances they make that helps the body fight infections and other diseases.",
+            "styles":{
+                "visibility": "visible",
+                "color": "black"
+            }
+        },
+        {
+            "words": "Sanitizing Stations",
+            "definition": "a public health antiepidemic institution",
+            "styles":{
+                "visibility": "visible",
+                "color": "black"
+            }
+        },
+        {
+            "words": "Fecal Matter",
+            "definition": "a bodily waste",
+            "styles":{
+                "visibility": "visible",
+                "color": "black"
+            }
+        },
+        {
+            "words": "Under the weather",
+            "definition": "Sick",
+            "styles":{
+                "visibility": "visible",
+                "color": "black"
+            }
+        },
+        {
+            "words": "Good luck",
+            "definition": "Break a leg",
+            "styles":{
+                "visibility": "visible",
+                "color": "black"
+            }
+        },
+        {
+            "words": "Go to sleep",
+            "definition": "Hit the sack",
+            "styles":{
+                "visibility": "visible",
+                "color": "black"
+            }
+        },
+        {
+            "words": "It's not complicated",
+            "definition": "It's not rocket science",
+            "styles":{
+                "visibility": "visible",
+                "color": "black"
+            }
+        }
+    ],
+    "identification":[
+        {
+            "key_answer": "Fluency",
+            "definition": "This criterion measures the number of times you stopped or paused while speaking or explaining" 
+        },
+        {
+            "key_answer": "Speech Rate",
+            "definition": "It is the speed at which a person speaks." 
+        },
+        {
+            "key_answer": "Grammatical Range",
+            "definition": "It is the logical arrangement of an answer and how all its parts fit together." 
+        },
+        {
+            "key_answer": "Pronouncation",
+            "definition": "It is used to perform various functions and are tested in the speaking test especially in Part 3." 
+        },
+        {
+            "key_answer": "Intelligibility",
+            "definition": "It is affected by the proper articulation of individual sounds." 
+        }
+    ]
+}

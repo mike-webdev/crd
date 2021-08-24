@@ -1,0 +1,113 @@
+{
+    "chapters":[
+        {   
+            "id":"w1",
+            "title": "Week 1",
+            "summary": "",
+            "lesson" : [
+                "Introduction Video",
+                "Complete the Table",
+                "Annotate Paragraphs",
+                "Written Homework",
+                "Speaking Homework"
+            ]
+        },
+        {
+            "id":"w2",
+            "title": "Week 2",
+            "summary": "",
+            "lesson" : [
+                "Introduction Video",
+                "Complete the Table",
+                "Annotate Paragraphs",
+                "Written Homework",
+                "Speaking Homework"
+            ]
+        },
+        {
+            "id":"w3",
+            "title": "Week 3",
+            "summary": "",
+            "lesson" : [
+                "Introduction Video",
+                "Complete the Table",
+                "Annotate Paragraphs",
+                "Written Homework",
+                "Speaking Homework"
+            ]
+        },
+        {
+            "id":"w4",
+            "title": "Week 4",
+            "summary": "",
+            "lesson" : [
+                "Introduction Video",
+                "Complete the Table",
+                "Annotate Paragraphs",
+                "Written Homework",
+                "Speaking Homework"
+            ]
+        },
+        {
+            "id":"w5",
+            "title": "Week 5",
+            "summary": "",
+            "lesson" : [
+                "Introduction Video",
+                "Complete the Table", 
+                "Annotate Paragraphs",
+                "Written Homework",
+                "Speaking Homework"
+            ]
+        },
+        {
+            "id":"w6",
+            "title": "Week 6",
+            "summary": "",
+            "lesson" : [
+                "Introduction Video",
+                "Complete the Table",
+                "Annotate Paragraphs",
+                "Written Homework",
+                "Speaking Homework"
+            ]
+        }
+    ],
+    "lesson_1":[
+        {
+            "id":"l2",
+            "title":"Complete the Table",
+            "activity_type": "warmup"
+        },
+        {
+            "id":"l3",
+            "title":"Annotate Paragraphs",
+            "activity_type": "activity"
+        },
+        {
+            "id":"l4",
+            "title":"Written Homework",
+            "activity_type": "homework"
+        },
+        {
+            "id":"l5",
+            "title":"Speaking Homework",
+            "activity_type": "homework"
+        }
+    ],
+    "courses": [
+        {
+            "id":"course1",
+            "title":"IELTS STEP 1"
+        },
+        {
+            "id":"course2",
+            "title":"IELTS STEP 2"
+        },
+        {
+            "id":"course3",
+            "title":"IELTS STEP 3"
+        }
+        
+    ]
+}

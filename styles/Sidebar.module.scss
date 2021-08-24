@@ -1,0 +1,30 @@
+/*sidenav*/
+.sidenav_container {
+background: #c4c4c4;
+padding-top: 10px;
+padding-bottom: 150px;
+position: relative;
+height: 100%;
+}
+
+.course-logo {
+height: 150px;
+width: 150px;
+}
+
+#sidenav {
+background: #c4c4c4;
+}
+.nav-link:hover{
+    color: #000;
+}
+.nav-link {
+    width: 100%;
+    text-align: center;
+    background: 0 0;
+    border: 0;
+    border-radius: .25rem;
+    padding: .5rem 1rem;
+}
+
+  

@@ -1,0 +1,62 @@
+[
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#e642ebbc-017f-4b2e-9788-c275436849ef",
+    "type": "Annotation",
+    "body": [{
+      "type": "TextualBody",
+      "value": "Espresso Machine"
+    }, {
+      "type": "TextualBody",
+      "purpose": "tagging",
+      "value": "Espresso Machine"
+    }],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:21.11069107055664,246.05996704101562,286.1899070739746,213.3223876953125"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#11fdfd37-d0b5-4bad-9fa0-fae04b89ab88",
+    "type": "Annotation",
+    "body": [{
+      "type": "TextualBody",
+      "value": "Bread"
+    }, {
+      "type": "TextualBody",
+      "purpose": "tagging",
+      "value": "Bread"
+    }],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:440.3630676269531,411.86004638671875,240.77975463867188,71.81149291992188"
+      }]
+    }
+  },
+  { 
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#31e1c086-da6c-4468-ba9b-acc85a214371",
+    "type": "Annotation",
+    "body": [{
+      "type": "TextualBody",
+      "value": "Plant"
+    }, {
+      "type": "TextualBody",
+      "purpose": "tagging",
+      "value": "Plant"
+    }],
+    "target": {
+      "selector": [{
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:456.203857421875,1.0560513734817505,179.52874755859375,227.05105006694794"
+      }]
+    }
+  }
+]
